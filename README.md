@@ -5,3 +5,6 @@ parts: Arduino uno, adafruit motor sheild v2.3, a servo, 2 motors, ultra-sonic s
 
 Functions: Automatic slow-down when too close to an obstacle, controll with you phone and a flamethrower :) 
 
+OBSERVE!!!
+main.ino is for the use with the original arduino ide
+main.cpp is for the use with platformIO
